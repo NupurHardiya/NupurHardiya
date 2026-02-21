@@ -48,14 +48,7 @@ FastAPI | Streamlit | TensorFlow | OpenCV | Git | GitHub | Jupyter
 - Implemented using CNN & OpenCV
 - Real-time detection and classification pipeline
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NupurHardiya&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NupurHardiya&layout=compact&theme=radical" />
-</p>
 
 ---
 
